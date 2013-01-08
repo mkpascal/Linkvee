@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #d5e3f0 url(../images/body-bg.jpg) repeat-x 0 0px;
+}
+div#logo-container h1{
+
+	background: url(../images/logo.png) no-repeat;
+
+}
+div.head-first{
+	background: url(../images/top-head-bg.jpg) no-repeat;
+}
+div.head{
+	background: url(../images/mid-head-bg.jpg) no-repeat;
+}
+div.head-last{
+	background: url(../images/bot-bg.jpg) no-repeat;
+}
+input.submit{
+	background: url(../images/submit-but.jpg) no-repeat;
+}

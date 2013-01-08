@@ -1,0 +1,6 @@
+# Interdictions valables pour tous les robots
+User-agent: *
+Disallow: /application
+Disallow: /extern
+Disallow: /modules
+Disallow: /system
